@@ -1,2 +1,4 @@
 /env
 /mlproject.egg-info
+.artifacts
+/logs
